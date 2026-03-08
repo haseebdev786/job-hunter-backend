@@ -14,9 +14,7 @@ google-auth-oauthlib==1.2.0
 google-api-python-client==2.133.0
 cryptography==42.0.8
 pydantic==2.7.3
-pydantic==2.10.6
 pydantic-settings==2.3.1
-pydantic-settings==2.7.0
 python-dotenv==1.0.1
 sse-starlette==2.1.0
 apify-client==1.7.0
