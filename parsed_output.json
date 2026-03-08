@@ -1,0 +1,55 @@
+﻿Testing parser...
+{
+  "full_name": "Haseeb Maqsood",
+  "email": "trickyboy467@gmail.com",
+  "phone": "...",
+  "location": "Street # 5, Sardar Colony Malikpur, Faisalabad, Pakistan, 38600",
+  "portfolio_url": "https://haseebdecportfolio.vercel.app",
+  "github_url": "https://github.com/Haseeb467",
+  "linkedin_url": "https://www.linkedin.com/in/haseeb-maqsood-069b66243/",
+  "summary": "I have been working in the electric industry for 4 years, with my most recent experience being an electrician at the canal view hospital. I possess valuable skills such as practical and planning skills that I believe make me best suited for the position of an Electrician in your company. I am a skilled web developer with 1 years of experience, specializing in building dynamic and user-friendly applications. My expertise includes front-end and back-end development, with strong problem-solving and planning skills. I am passionate about writing clean, efficient code and continuously improving my technical abilities to create high-quality software solutions.",
+  "skills": [
+    "Power Cable",
+    "Control Panel",
+    "Install wiring",
+    "Generator operator",
+    "3 Phase motor",
+    "Distribution Panel",
+    "Read Blueprint",
+    "Exchange System"
+  ],
+  "experience": [
+    {
+      "title": "Assistant Electrician",
+      "company": "Aziz Fatimah and medical dental college and Canal view Hospital",
+      "duration": "Sep 2022 - Present",
+      "bullets": [
+        "Work as electrician",
+        "Worked on telecommunication exchange",
+        "Worked on panel boards and wiring",
+        "Ensuring functionality for all units"
+      ]
+    },
+    {
+      "title": "Electric Shop",
+      "company": "Aziz Fatimah and medical dental college and Canal view Hospital",
+      "duration": "Mar 2020 - Dec 2021",
+      "bullets": [
+        "Performed electrical wiring",
+        "Repair all single phase motor"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "DAE Electrical",
+      "institution": "Gov\u2019t College of Technology",
+      "year": "Sep 2019 - Apr 2022"
+    },
+    {
+      "degree": "Diploma in Electrical",
+      "institution": "Gov\u2019t College of Technology",
+      "year": "Sep 2019 - Apr 2022"
+    }
+  ]
+}

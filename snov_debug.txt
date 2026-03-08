@@ -1,0 +1,10 @@
+﻿Token: eyJ0eXAiOiJKV1QiLCJh...
+
+Start Status: 403
+Start Body: {
+  "errors": {
+    "code": 403,
+    "title": "Sorry, but you dont have permissions for this action.",
+    "source": ""
+  }
+}

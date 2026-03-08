@@ -1,0 +1,96 @@
+﻿
+============================================================
+Company: Google | Domain: google.com
+============================================================
+Prospeo search skipped: prospeo_auth_error
+{
+  "email": "hr@google.com",
+  "confidence": 0.45,
+  "source": "pattern_verified",
+  "all_patterns": [
+    "hr@google.com",
+    "careers@google.com",
+    "info@google.com",
+    "contact@google.com",
+    "jobs@google.com",
+    "talent@google.com",
+    "hiring@google.com"
+  ],
+  "provider_reason": "gemini_no_valid_email -> website_scrape_no_emails -> snov_auth_error -> prospeo_auth_error -> pattern_domain_alive",
+  "provider_path": [
+    "gemini_ai",
+    "http_scrape",
+    "snov_io",
+    "prospeo",
+    "pattern_verified"
+  ]
+}
+
+============================================================
+Company: Systems Limited | Domain: systemsltd.com
+============================================================
+{
+  "email": "investor_relations@systemsltd.com",
+  "confidence": 0.7,
+  "source": "website_scrape",
+  "provider_reason": "gemini_no_valid_email -> website_scrape_ok",
+  "provider_path": [
+    "gemini_ai",
+    "http_scrape"
+  ]
+}
+
+============================================================
+Company: 10Pearls | Domain: 10pearls.com
+============================================================
+Prospeo search skipped: prospeo_auth_error
+{
+  "email": "hr@10pearls.com",
+  "confidence": 0.45,
+  "source": "pattern_verified",
+  "all_patterns": [
+    "hr@10pearls.com",
+    "careers@10pearls.com",
+    "info@10pearls.com",
+    "contact@10pearls.com",
+    "jobs@10pearls.com",
+    "talent@10pearls.com",
+    "hiring@10pearls.com"
+  ],
+  "provider_reason": "gemini_no_valid_email -> website_scrape_no_emails -> snov_auth_error -> prospeo_auth_error -> pattern_domain_alive",
+  "provider_path": [
+    "gemini_ai",
+    "http_scrape",
+    "snov_io",
+    "prospeo",
+    "pattern_verified"
+  ]
+}
+
+============================================================
+Company: Devsinc | Domain: devsinc.com
+============================================================
+{
+  "email": "sales@devsinc.com",
+  "confidence": 0.7,
+  "source": "website_scrape",
+  "provider_reason": "gemini_no_valid_email -> website_scrape_ok",
+  "provider_path": [
+    "gemini_ai",
+    "http_scrape"
+  ]
+}
+
+============================================================
+Company: Arbisoft | Domain: arbisoft.com
+============================================================
+{
+  "email": "contact@arbisoft.com",
+  "confidence": 0.7,
+  "source": "website_scrape",
+  "provider_reason": "gemini_no_valid_email -> website_scrape_ok",
+  "provider_path": [
+    "gemini_ai",
+    "http_scrape"
+  ]
+}

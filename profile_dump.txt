@@ -1,0 +1,23 @@
+﻿{
+  "full_name": "Haseeb Maqsood",
+  "email": "trickyboy467@gmail.com",
+  "phone": "92-307-6358053",
+  "location": "",
+  "summary": "Electrician, Web Developer 92-307-6358053 trickyboy467@gmail.com",
+  "skills": [
+    "at the canal view hospital i possess valuable skills such as practical and planning skills that i believe"
+  ],
+  "experience": [],
+  "education": [],
+  "_preferences": {
+    "job_title": "Software Engineer",
+    "location": "Remote",
+    "remote_only": true,
+    "experience_level": "Mid",
+    "employment_type": [
+      "Full-time"
+    ],
+    "max_applications": 10
+  },
+  "_resume_path": "uploads\\c29baef2-de8e-446b-bfab-4cacd89a5391_Haseeb IT CV 2.pdf"
+}

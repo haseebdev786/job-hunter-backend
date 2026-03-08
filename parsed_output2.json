@@ -1,0 +1,60 @@
+﻿Testing parser...
+{
+  "full_name": "Haseeb Maqsood",
+  "email": "trickyboy467@gmail.com",
+  "phone": "92-307-6358053",
+  "location": "Street # 5, Sardar Colony Malikpur, Faisalabad, Pakistan, 38600",
+  "portfolio_url": "https://haseebdecportfolio.vercel.app",
+  "github_url": "https://github.com/Haseeb467",
+  "linkedin_url": "https://www.linkedin.com/in/haseeb-maqsood-069b66243/",
+  "summary": "I have 4 years of experience in the electric industry, specializing in electrical work and web development. I am a skilled web developer with 1 years of experience, focusing on building dynamic and user-friendly applications using technologies like React.js and JavaScript. I am passionate about clean code and continuous improvement.",
+  "skills": [
+    "Power Cable",
+    "Control Panel",
+    "Install wiring",
+    "Generator operator",
+    "3 Phase motor",
+    "Distribution Panel",
+    "Read Blueprint",
+    "Exchange System",
+    "Language HTML, CSS, Java Scripts",
+    "Language React.js, Next.js, PHP, Python",
+    "Database MongoDB, Firebase, MySQL",
+    "Web Designing"
+  ],
+  "experience": [
+    {
+      "title": "Assistant Electrician",
+      "company": "Aziz Fatimah and medical dental college and Canal view Hospital",
+      "duration": "Sep 2022 - Present",
+      "bullets": [
+        "Work as electrician",
+        "Worked on telecommunication exchange",
+        "Worked on panel boards and wiring",
+        "Ensured functionality for all units"
+      ]
+    },
+    {
+      "title": "Electric Shop",
+      "company": " Faisalabad",
+      "duration": "Mar 2020 - Dec 2021",
+      "bullets": [
+        "Electrician",
+        "Repair all single phase motor"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "DAE Electrical",
+      "institution": "Gov\u2019t College of Technology Faisalabad",
+      "year": "Sep 2019 - Apr 2022"
+    },
+    {
+      "degree": "Diploma in Electrical",
+      "institution": "Gov\u2019t College of Technology Faisalabad",
+      "year": "Sep 2019 - Apr 2022",
+      "percentage": 85.7
+    }
+  ]
+}
